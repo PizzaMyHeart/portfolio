@@ -7,7 +7,7 @@ ul {
   top: 0;
   width: 100%;
   z-index: 1;
-  
+
 }
 
 li {
@@ -61,7 +61,7 @@ li a:hover {
 
 
 .text {
-  white-space: nowrap; 
+  white-space: nowrap;
   color: white;
   font-size: 20px;
   position: absolute;
@@ -74,7 +74,7 @@ li a:hover {
 
 .text a{
   text-decoration: none;
-  white-space: nowrap; 
+  white-space: nowrap;
   color: white;
   font-size: 60px;
   font-family: arial;
@@ -131,12 +131,9 @@ li a:hover {
 
 .hspacer {width: 30px; display: inline-block;}
 
-body {
-  background-image: url("https://zellox.com/wp-content/uploads/2016/02/free-free-background-images.jpg")
-}
 
 #copyright {
-  float:right; 
+  float:right;
   padding: 20px 20px 0 0;
 }
 
